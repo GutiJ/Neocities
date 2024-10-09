@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "pixel";
+    src: url(fonts/PixelifySans-Bold.ttf) format(truetype);
+    font-weight: 100;
+}
+@font-face {
+    font-family: "pixelBlack";
+    src: url(fonts/PixelifySans-Bold.ttf) format(truetype);
+    font-weight: 700;
+}
