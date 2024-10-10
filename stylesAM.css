@@ -10,6 +10,18 @@
     border: 1px solid rgb(255, 255, 255);
     
 }
+.box2{
+  font-family: pixel;
+  margin: auto;
+  background-color:rgb(0, 0,0);
+  color: #fff;
+  text-justify: auto;
+  height: auto;
+  width: 35%;
+  padding-top: 20px;
+
+  
+}
 .conteiner-box{
     display: flex;
     justify-content: center;
@@ -17,6 +29,13 @@
     padding: 10px;
 
   
+}
+a{
+  color: white;
+  text-decoration: none; 
+}
+a:hover{
+  color:	#8A2BE2;
 }
 .Fondo{
     background-color: rgb(0, 0,0);
@@ -27,6 +46,12 @@
     display: block;
     margin:auto;
     
+}
+.imgAjustSmall{
+  height: 280px;
+  width: 200px;
+  display: block;
+  margin:  auto;
 }
 h1{
     padding-top: 0px;
