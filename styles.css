@@ -12,7 +12,7 @@
     background-color: rgb(0, 0,0);
 }
 .box-intro{
-    font-family: pixel;
+    font-family: Times, "Times New Roman", serif;
     margin: auto;
     
     color: #fff;
@@ -22,7 +22,7 @@
     border: 1px solid rgb(255, 255, 255);
 }
 .box{
-    font-family: pixel;
+    font-family: Times, "Times New Roman", serif;
     margin: auto;
     background-color:rgb(0, 0,0);
     color: #fff;
@@ -46,8 +46,9 @@
     margin: auto;
 }
 h1{
+    
     padding-top: 10px;
-    font-family: serif;
+    font-family:Times, "Times New Roman", serif;
     text-align: center;
 }
 h2{
